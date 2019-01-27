@@ -46,6 +46,8 @@ Jupyter notebooks/Jupyterhub/JupyterLab are used throughout this course. You can
 
 __Note:__ It is __YOUR OWN__ responsibility to make sure you have access to at least one of the above computing environments.
 
+GitHub will be used to disseminate class materials - make sure you have a __working GitHub Account__.
+
 ---
 
 ## Learning Objectives
