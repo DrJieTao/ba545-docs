@@ -8,4 +8,6 @@ _Spring 2019_
 + In Class Tutorials (Jupyter Notebooks, can be found using each week's link to Github Classroom)
 + [Competition#1](https://github.com/DrJieTao/ba545-docs/tree/master/competition1)
 + Downloads (To Be Updated)
++ [JuoyterHub User Guide](https://github.com/DrJieTao/ba545-docs/blob/master/1_28_2019%20JupyterHub-Guide.pdf)
+  + Special thanks to Ms. Pu for preparing this document. If you have any technical issues, please contact [Ms. Pu](mailto:yue.pu@student.fairfield.edu).
 
