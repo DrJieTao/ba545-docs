@@ -177,8 +177,8 @@ The following course outline is tentative and subject to change when and where d
 | 3/25 | Basic Classification | Naive Bayes; Logistic Regression | MP#2 - pt2 |
 | 4/1 | Basic Classification | Decision Trees; SVM | MP#1 - pt3 |
 | 4/8 | Advanced Classification | XGBoost; Random Forest | Competition#2 Data Audit Report |
-| 4/15 | Model Evaluation and Optimization | Ensemble Learning | | MP#2 - pt3 |
-| 4/22 | Model Evaluation and Optimization | Hyperparameter Optimization; Intro to TPOT | Competition#2 Initial Data Models |
+| 4/15 | Model Evaluation and Optimization | Ensemble Learning; Intro to TPOT | | MP#2 - pt3 |
+| 4/22 | Model Evaluation and Optimization | Hyperparameter Optimization | Competition#2 Initial Data Models |
 | 4/29 | Intro to Deep Learning | Deep Learning Basics | |
 | 5/6 | | | Competition#2 Presentations and Final Report |
 
