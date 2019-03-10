@@ -4,6 +4,8 @@ For the purpose of familiarizing you with data mining modeling techniques, as we
 
 Each group is asked to provide their ranking of the following topics. For instance, one group can rank the topics as __Topic 1__, __Topic 3__, __Topic 2__. The topic with the highest ranking will be selected as the topic for competition 2.  
 
+Please use [this form](https://goo.gl/forms/XYey4DVjuZBVYeZ83) to rank these topics.
+
 ## Topics:
 + __Topic 1__: [Default of Credit Card Clients](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
 
