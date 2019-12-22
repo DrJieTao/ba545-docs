@@ -1,4 +1,5 @@
 # Potential Projects for Competition 2
+## Spring 2019
 
 For the purpose of familiarizing you with data mining modeling techniques, as well as preparing you for topic selection of your capstone project, I have carefully selected the following topics for competition 2. These topics cover fields including _finance_, _social media_, and _marketing analytics_. Also, these topics range from __classification__ to __regression__ as modeling objectives. 
 
