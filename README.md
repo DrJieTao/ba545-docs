@@ -1,5 +1,5 @@
 # BA 545 Course Documents
-_Spring 2019_
+_Spring 2020_
 
 ## Table of Contents
 + [Syllabus](https://github.com/DrJieTao/ba545-docs/blob/master/syllabus.md)
