@@ -100,11 +100,12 @@ __NOTE:__ Please check each week's schedule/checklist frequently for important d
 
 There are __two (2)__ mini-projects in this course. Although each mini-project is a *complete* data mining process, they focus on different aspects of it. These are designed to provide you with an opportunity to internalize as well as apply the materials discussed during the class ses-sion and related practices.
 
-Each mini-project has __three (3) __ parts - these parts will be made available along this course, please pay attention to each week's schedule/checklist.
+Each mini-project has __three (3)__ parts - these parts will be made available along this course, please pay attention to each week's schedule/checklist.
 
 It is expected that you __collaborate__ with your peers - but you still need to put in your best effort in the mini projects.
 
-For each part, I have provided a __checkpoint opportunity__ for you so I can check on your work and provide feedback – you can submit your draft to me via email. I will __NOT__ grade on your draft work.
+For each part, I have provided a __checkpoint opportunity__ for you so I can check on your work and provide feedback – you can submit your draft to me via email. I will __NOT__ grade on your draft work. The checkpoint is the _Saturday_ of the same week the respective part is released.
+
 
 Completed notebooks should be submitted to your Github repo. __No email submission will be accepted.__
 
