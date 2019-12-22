@@ -16,15 +16,15 @@
 | Contact Info         |                                                                  |                                       |
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
 | **Name:** Jie Tao    | **Email:** [jtao@fairfield.edu](mailto:jtao@fairfield.edu)       | **Phone:** (203)254-4000 x 2232       |
-| **Office:** DSB 2102 | **Office Hours:** MR 5 - 6:30 PM EST, or by appointment                                                  |
+| **Office:** DSBN 338 | **Office Hours:** TF 5 - 6:30 PM EST, or by appointment                                                  |
 ---
 
 ## Course Information
 | **Title:** Data Mining |  |
 :--- | :--- 
 **Course Number:** `BA545` | **Credit Hours:** 3 | 
-**Prerequisites:** `BA500`, `BA505` | **Course Duration**: Jan., 28 - May, 6th |
-**Delivery Method:**  In class (**DSB 115**) and online ([Github](#)) | **Meeting Time:** M 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2018-2019) |
+**Prerequisites:** `BA500`, `BA505` | **Course Duration**: Jan., 21 - Apr., 28 |
+**Delivery Method:**  In class (**DSBN 216**) and online ([Github](#)) | **Meeting Time:** T 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2019-2020) |
 
 ### Course Description
 
@@ -87,8 +87,7 @@ This class is graded based on a point system (with a total of __1,000__ points),
 | 800 - 829 | 80 - 82.9 | B- |
 | 770 - 799 | 77 - 79.9 | C+ |
 | 730 - 769 | 73 - 76.9 | C |
-| 700 - 729 | 70 - 72.9 | C- |
-| 699 and below | 69.9 and below | F |
+| 729 and below | 72.9 and below | F |
 
 ---
 
@@ -103,7 +102,7 @@ There are __two (2)__ mini-projects in this course. Although each mini-project i
 
 Each mini-project has __three (3) __ parts - these parts will be made available along this course, please pay attention to each week's schedule/checklist.
 
-I expect you to put your best individual effort to these parts, __WITHOUT__ collaborating with your class peers. 
+It is expected that you __collaborate__ with your peers - but you still need to put in your best effort in the mini projects.
 
 For each part, I have provided a __checkpoint opportunity__ for you so I can check on your work and provide feedback – you can submit your draft to me via email. I will __NOT__ grade on your draft work.
 
@@ -165,20 +164,19 @@ The following course outline is tentative and subject to change when and where d
 
 | Date | Lecture | In Class Activities | Student Work |
 :--- | :--- | :--- | :---
-| 1/28 | Intro to Data Mining | Course Logistics; A Data Mining Tour | Python Review |
-| 2/4 | Framing Your Analytical Question | Starting with Data; Data Handling with Pandas | Competition#1 Kick-off |
-| 2/11 | Data Preparation | Data Preprocessing; PCA | MP#1 - pt1 |
-| 2/18 | University Holiday, class meeting moves to Feb., 19 |
-| 2/19 | Data Exploration | Feature Selection Pt1 & Pt2 | MP#2 - pt1 |
-| 2/25 | | Recommender Systems | MP#1 - pt2 |
-| 3/4 | Stats Overview and Review | Handling Categorical Data; Handling Imbalanced Data | Competition#1 Due |
-| 3/11 | Unsupervised Learning - Clustering | K-means Clustering | Competition#2 Kick-off |
-| 3/18 | Spring Recess - No Class Meeting Times |
-| 3/25 | Basic Classification | Naive Bayes; Logistic Regression | MP#2 - pt2 |
-| 4/1 | Basic Classification | Decision Trees; SVM | MP#1 - pt3 |
-| 4/8 | Advanced Classification | XGBoost; Random Forest | Competition#2 Data Audit Report |
-| 4/15 | Model Evaluation and Optimization | Ensemble Learning; Intro to TPOT | MP#2 - pt3 |
-| 4/22 | Model Evaluation and Optimization | Hyperparameter Optimization | Competition#2 Initial Data Models |
-| 4/29 | Intro to Deep Learning | Deep Learning Basics | |
-| 5/6 | | | Competition#2 Presentations and Final Report |
+| 1/21 | Intro to Data Mining | Course Logistics; A Data Mining Tour | Python Review |
+| 1/28 | Framing Your Analytical Question | Starting with Data; Data Handling with Pandas | Competition#1 Kick-off |
+| 2/4 | Data Preparation | Data Preprocessing; PCA | MP#1 - pt1 |
+| 2/11 | Data Exploration | Feature Selection Pt1 & Pt2 | MP#2 - pt1 |
+| 2/18 | | Recommender Systems | MP#1 - pt2 |
+| 2/25| Stats Overview and Review | Handling Categorical Data; Handling Imbalanced Data | Competition#1 Due |
+| 3/3 | Unsupervised Learning - Clustering | K-means Clustering | Competition#2 Kick-off |
+| 3/10 | Spring Recess - No Class Meeting Times |
+| 3/17 | Basic Classification | Naive Bayes; Logistic Regression | MP#2 - pt2 |
+| 3/24 | Basic Classification | Decision Trees; SVM | MP#1 - pt3 |
+| 3/31 | Advanced Classification | XGBoost; Random Forest | Competition#2 Data Audit Report |
+| 4/7 | Model Evaluation and Optimization | Ensemble Learning; Intro to TPOT | MP#2 - pt3 |
+| 4/14 | Model Evaluation and Optimization | Hyperparameter Optimization | Competition#2 Initial Data Models |
+| 4/21 | Intro to Deep Learning | Deep Learning Basics | |
+| 4/28 | | | Competition#2 Presentations and Final Report |
 
