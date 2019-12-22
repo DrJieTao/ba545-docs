@@ -109,9 +109,15 @@ For each part, I have provided a __checkpoint opportunity__ for you so I can che
 
 Completed notebooks should be submitted to your Github repo. __No email submission will be accepted.__
 
-### Competitions
+### Competitions/Course Projects
 
 There will be __two (2)__ course projects during the course. Both projects will be assessed by experienced analytics professionals. *A peer evaluation system is designed to evaluate the individual performances within groups.*
+
+__Note__ that all groups' performances are ranked - the groups ranked top 3 in class are rewarded with extra points: 
+
++ First place: 20 extra points
++ Second place: 10 extra points
++ Third place: 5 extra points
 
 __Competition #1: Advanced Preparation of Financial Data.__ The first competition focuses on data preprocessing (in-cluding data understanding), which is an important, maybe the most time consuming step in the CRISP-DM process. This is a group-based, competition-oriented project. _Advanced modeling techniques, and novel data preprocessing steps will be rewarded with extra points._  Detailed competition rules and guidelines will be mad available to your later. There are two deliverables in this competition:
 
