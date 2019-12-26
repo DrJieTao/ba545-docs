@@ -173,7 +173,7 @@ The following course outline is tentative and subject to change when and where d
 :--- | :--- | :--- | :---
 | 1/21 | Intro to Data Mining | Course Logistics; A Data Mining Tour | Python Review |
 | 1/28 | Framing Your Analytical Question | Starting with Data; Data Handling with Pandas | Competition#1 Kick-off |
-| 2/4 | Data Preparation | Data Preprocessing; PCA | MP#1 - pt1 |
+| 2/4 | Data Preparation | Data Preprocessing; Stats Review | MP#1 - pt1 |
 | 2/11 | Data Exploration | Feature Selection Pt1 & Pt2 | MP#2 - pt1 |
 | 2/18 | | Recommender Systems | MP#1 - pt2 |
 | 2/25| Stats Overview and Review | Handling Categorical Data; Handling Imbalanced Data | Competition#1 Due |
