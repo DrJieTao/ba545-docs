@@ -1,5 +1,5 @@
 
-# BA545: Data Mining Syllabus, Spring 2019
+# BA545: Data Mining Syllabus, Spring 2020
 ---
 ## Table of Contents
 + [Professor Information](#professor-information)
@@ -69,8 +69,8 @@ This class is graded based on a point system (with a total of __1,000__ points),
 | Deliverables | Point Value |
 :--- | :---
 | Mini projects (2 x 3 parts, each worth __50__ points) | 6 x 50 = __300__ points |
-| Competition #1 | __250__ points |
-| Competition #2 | __350__ points |
+| Project #1 | __250__ points |
+| Project #2 | __350__ points |
 | Participation and In-class notebook Submissions | __100__ points |
 | __Total__ | __1,000__ points|
 
