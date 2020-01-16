@@ -16,7 +16,7 @@
 | Contact Info         |                                                                  |                                       |
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
 | **Name:** Jie Tao    | **Email:** [jtao@fairfield.edu](mailto:jtao@fairfield.edu)       | **Phone:** (203)254-4000 x 2232       |
-| **Office:** DSBN 338 | **Office Hours:** TF 5 - 6:30 PM EST, or by appointment                                                  |
+| **Office:** DSBN 338 | **Office Hours:** T 5-6PM, F 4-6PM EST, or by appointment                                                  |
 ---
 
 ## Course Information
