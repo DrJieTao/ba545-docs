@@ -94,6 +94,7 @@ This class is graded based on a point system (with a total of __1,000__ points),
 ## Deliverables
 
 __NOTE:__ All submissions should be in __Jupyter Notebooks__.
+
 __NOTE:__ Please check each week's schedule/checklist frequently for important dates and other information.
 
 ### Mini-projects:
