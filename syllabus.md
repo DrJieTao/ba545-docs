@@ -1,5 +1,7 @@
 
-# BA545: Data Mining Syllabus, Spring 2020
+# BA545: Machine Learning for Predictive Analytics
+
+Course Syllabus, Spring 2020
 ---
 ## Table of Contents
 + [Professor Information](#professor-information)
