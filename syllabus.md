@@ -21,10 +21,13 @@ Course Syllabus, Spring 2020
 | **Office:** DSBN 338 | **Office Hours:** T 5-6PM, F 4-6PM EST, or by appointment                                                  |
 
 ## Course Support Staff
-- Lab Manager: Ms. Yue Pu [Email](mailto:yue.pu@fairfield.edu)
+- Lab Manager: Yue Pu [Email](mailto:yue.pu@fairfield.edu)
 - Python Tutors:
   - Erik Hren [Email](mailto:erik.hren@student.fairfield.edu)
   - Brian Nicholls [Email](mailto:brian.nicholls@student.fairfield.edu)
+
+Support staff office hours and locations to be announced.
+
 ---
 
 ## Course Information
