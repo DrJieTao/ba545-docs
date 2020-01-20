@@ -19,6 +19,12 @@ Course Syllabus, Spring 2020
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
 | **Name:** Jie Tao    | **Email:** [jtao@fairfield.edu](mailto:jtao@fairfield.edu)       | **Phone:** (203)254-4000 x 2232       |
 | **Office:** DSBN 338 | **Office Hours:** T 5-6PM, F 4-6PM EST, or by appointment                                                  |
+
+## Course Support Staff
+- Lab Manager: Ms. Yue Pu [Email](mailto:yue.pu@fairfield.edu)
+- Python Tutors:
+  - Erik Hren [Email](mailto:erik.hren@student.fairfield.edu)
+  - Brian Nicholls [Email](mailto:brian.nicholls@student.fairfield.edu)
 ---
 
 ## Course Information
