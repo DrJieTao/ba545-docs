@@ -10,7 +10,7 @@ Please use [this form](https://goo.gl/forms/XYey4DVjuZBVYeZ83) to rank these top
 ## Topics:
 + __Topic 1__: [Online Shoppers Purchasing Intention](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)
 
-In this project, you are going to predict if a web user is going to make a purchase using a set of web browsing and demograhic information of the user. This is a classification project - in the data the feature `Revenue` as the __target__ feature - if `Revenue` is greater than 0, then the user made a purchase (class `1`); otherwise, the user did not make a purchase (class `0`).
+In this project, you are going to predict if a web user is going to make a purchase using a set of web browsing and demographic information of the user. This is a classification project - in the data the feature `Revenue` as the __target__ feature - if `Revenue` is greater than 0, then the user made a purchase (class `1`); otherwise, the user did not make a purchase (class `0`).
 
 This dataset contains 10 numerical and 8 categorical features, and 1 binary target (purchase or not via _calculation_). The dataset can be downloaded using this [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00468/online_shoppers_intention.csv).
 
