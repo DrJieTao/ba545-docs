@@ -66,6 +66,7 @@ Tao should __only__ be conducted by group leaders.
   + __Advanced modeling techniques__: if you use advanced modeling skills, such as _Gradient Boosting (XGBoost), Lasso Regression, Random Forest Regression, Elastic Net, or Deep Neural Networks_, you can be awarded up to __10__ points;
   + __Other advanced techniques__: using _cross-validation, tuning/searching for model hyperparameters, or ensemble learning_, you will receive up to __10__ extra points;
   + __Interactive presentation skills__: If you decide to use an interactive scenario during your presentation – for instance, conversation between customer/banker; or between consultant/manager - you will receive up to __10__ extra points;
+  + __Additional Analytical Questions__: can you figure out analytical questions that are significantly different from the overarching research question, and related to it? You will receive up to __10__ extra points;
   + You need to notify Dr. Tao your group’s decision regarding the extra point opportunities __no later than__ 11:59 pm, Tuesday, March <img src="https://render.githubusercontent.com/render/math?math=24^{th}">, 2020 ETC. 
 
   
