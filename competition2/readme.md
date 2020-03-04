@@ -78,7 +78,7 @@ Tao should __only__ be conducted by group leaders.
 ## Competition Guidelines
 
 ### Research Question
-The overarching research question is _“What are the determinants of the default of credit card customers?”_ 
+The overarching research question is _“What drive potential costomers to make a purchase?”_ 
 
 ### Data Dictionary
 See the [data page](https://archive.ics.uci.edu/ml/machine-learning-databases/00468/online_shoppers_intention.csv). You will need to conduct an EDA to understand the data better. It is __on you__ to create a data dictionary like I gave you in Competition 1.
