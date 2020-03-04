@@ -9,7 +9,7 @@ In this project, you are going to predict if a web user is going to make a purch
 
 This dataset contains `10` numerical and 8 categorical features, and `1` binary target (_purchase or not_ via calculation).
 
-In this competition, you are going to design, implement, and deploy a classification analysis to predict _whether a web user will make a purchase_. Your client is seeking advanced and novel methods to prepare the collected data, to prepare data for the classification purpose. You will focus on all the phases in the CRISP-DM model, aside from model deployment. __Advanced modeling techniques, interactive presentation skills, and elicitation of the analytical problem__ will be needed for ex-tra points.
+In this competition, you are going to design, implement, and deploy a classification analysis to predict _whether a web user will make a purchase_. Your client is seeking advanced and novel methods to prepare the collected data, to prepare data for the classification purpose. You will focus on ___all___ the phases in the CRISP-DM model, aside from model deployment. __Advanced modeling techniques, interactive presentation skills, and elicitation of the analytical problem__ will be needed for extra points.
 
 
 ## General Information about the Competition
