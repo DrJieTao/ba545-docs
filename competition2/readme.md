@@ -82,8 +82,8 @@ Following tasks are normally conduct in data preparation phase. __Not all steps 
 
 1.	__Business Understanding__: frame your analytical questions: can you have side analytical problems from this project? What is the unit of analysis (customers?)? What is the population of interest (do you need some other information)? 
 2.	__Data Understanding__: Exploratory Data Analysis (EDA) is very important – you can reuse a lot of your code from competition #1 – also, Kaggle has a large number of EDA kernels. Also, you should consider how to split your data (fixed training/testing split, or cross-validation). Additionally, you should consider whether you need additional data in this analysis.
-3.	__Data Preparation__: again, you can use a ton of the code from competition #1 here – several things to highlight here, including encoding, feature engineering. 
-4.	__Modeling__: use as many models as possible is recommended – so that you can look for the best model.
+3.	__Data Preparation__: again, you can use a ton of the code from competition #1 here – several things to highlight here, including _encoding, feature engineering_, and _feature selection_. 
+4.	__Modeling__: use __as many models as possible__ is recommended – so that you can look for the best model.
 5.	__Evaluation/Optimization__: if you want to win, optimization is a must-have. Strategies such as GridSearch, Stacking/Ensemble, and other techniques are worth consideration.
 
 
