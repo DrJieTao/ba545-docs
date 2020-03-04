@@ -41,7 +41,7 @@ Tao should __only__ be conducted by group leaders.
   - Any additional information relevant to the analysis or the results.
  
 ### Evaluation Rules
-<img src="https://render.githubusercontent.com/render/math?math=precision = \frac{true positive}{true positive \+ false negative}">
+<img src="https://render.githubusercontent.com/render/math?math=precision = \frac{true positive}{true positive %2B false negative}">
 
 - Submissions are evaluated on __two evaluation metrics__ of the modeling results; each part takes up to __100__ points:
   - _Prediction Accuracy_: we will use F-1 score as the measurement of how close the predicted values are to the factual outputs – please refer to [this Wikipedia article](https://en.wikipedia.org/wiki/Precision_and_recall) for the computation of F-1 score;
