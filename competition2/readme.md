@@ -1,5 +1,6 @@
 <!--Starter files for Competition #2-->
-# BA 545 Course Project 2: Online Shoppers Purchasing Intentions
+# BA 545 Course Project 2: 
+## Online Shoppers Purchasing Intentions
 ## Spring 2020
 
 ## Overview of the Competition
