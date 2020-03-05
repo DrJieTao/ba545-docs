@@ -65,7 +65,7 @@ Tao should __only__ be conducted by group leaders.
   + Second place: 10 extra points
   + Third place: 5 extra points
 
-- Every submission will be evaluated by Dr. Tao and at least one (1) independent judge – all disagreements need to be resolved before release the results to the participants. __Example evaluation code will be provided for your convenience.__
+- Every submission will be evaluated by Dr. Tao and at least one (1) independent judge – all disagreements need to be resolved before release the results to the participants. __Evaluation will be based on your best modeling performance__.
 
 - Extra point opportunities: each group can make use of up to __TWO (2)__ extra points opportunities – each opportunity worth up to 10 extra points:
   + __Advanced modeling techniques__: if you use advanced modeling skills, such as _Gradient Boosting (XGBoost), Lasso Regression, Random Forest Regression, Elastic Net, or Deep Neural Networks_, you can be awarded up to __10__ points;
