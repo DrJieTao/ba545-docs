@@ -195,8 +195,8 @@ The following course outline is tentative and subject to change when and where d
 | 3/3 | Unsupervised Learning - Clustering | K-means Clustering | Competition#2 Kick-off |
 | 3/10 | Spring Recess - No Class Meeting Times |
 | 3/17 | Basic Classification | Naive Bayes; Logistic Regression | MP#2 - pt2 |
-| 3/24 | Basic Classification | Decision Trees; SVM | MP#1 - pt3 |
-| 3/31 | Advanced Classification | XGBoost; Random Forest | Competition#2 Data Audit Report |
+| 3/24 | Basic Classification | Decision Trees; Random Forest | MP#1 - pt3 |
+| 3/31 | Advanced Classification | XGBoost; SVM | Competition#2 Data Audit Report |
 | 4/7 | Model Evaluation and Optimization | Ensemble Learning; Intro to TPOT | MP#2 - pt3 |
 | 4/14 | Model Evaluation and Optimization | Hyperparameter Optimization | Competition#2 Initial Data Models |
 | 4/21 | Intro to Deep Learning | Deep Learning Basics | |
