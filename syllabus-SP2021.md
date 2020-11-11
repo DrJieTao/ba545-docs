@@ -150,23 +150,22 @@ __Competition #2: Machine Learning Applications__. This project would either be 
 
 <!--Learning will become much more informative and interesting through lively discussions and exchanges of ide-as/experiences during the class sessions. As such, students are expected to attend every class meeting. Successful class at-tendances, participations, and discussions, imply: 
 
-__Attendance and Note Taking__: Attend each and every class in a timely manner. Be aware that some of the material dis-cussed in class will NOT be covered in the textbook, but will often appear in the exams. You will need to submit exer-cise files after most of the classes. Of course, I realize that in some cases unforeseeable emergencies arise. If you need to miss class for a legitimate, predictable reason, you must inform me and also take the initiative as early as possible to mitigate the effects of that absence. For example, you should establish a buddy system and ask another peer to take notes, handouts for you. You should find out what took place in the class prior to your next class attendance.
+<!--__Attendance and Note Taking__: Attend each and every class in a timely manner. Be aware that some of the material dis-cussed in class will NOT be covered in the textbook, but will often appear in the exams. You will need to submit exer-cise files after most of the classes. Of course, I realize that in some cases unforeseeable emergencies arise. If you need to miss class for a legitimate, predictable reason, you must inform me and also take the initiative as early as possible to mitigate the effects of that absence. For example, you should establish a buddy system and ask another peer to take notes, handouts for you. You should find out what took place in the class prior to your next class attendance.
 
-__Preparations__: To contribute to class discussions, you must spend adequate time prior to class preparing carefully all re-quired tasks (e.g., readings, assignments). Please take your own laptop – meeting the minimum hardware and software rquirements to every class meeting time – this is __mandatory__!-->
+<!--__Preparations__: To contribute to class discussions, you must spend adequate time prior to class preparing carefully all re-quired tasks (e.g., readings, assignments). Please take your own laptop – meeting the minimum hardware and software rquirements to every class meeting time – this is __mandatory__!-->
 
-__Special Note for Fall 2020__: Due to the COVID-19 pandemic, attending class meetings in person is __OPTIONAL__. That means if you registered in person, you do not have to come to class unless you want to. If you plan to join in the in-person, on-campus experiences, then you will need to complete a COVID-19 test before returning to campus. Please review the "Return to Campus Procedures" under the FAQs at https://www.fairfield.edu/reopen for detailed information on requesting a test and downloading the LiveSafe app to complete a health monitoring check before any campus visit. Additional questions can be directed to covidhealth@fairfield.edu.
+__Special Note for Spring 2021__: Due to the COVID-19 pandemic, No in-person meeting is held until notified otherwise. You are expected to follow the _flipped classroom_ model (described below). And if you need help for your course work (e.g., exercises, Q&As, group work), contact Ms. Yue (for technical support of Colab/Slack), your Python tutors (for course related questions), or myself for assistance.
 
-__Special Note for the Online Section__: the online section will be asynchronous - meaning __no__ class meetings. You are expected to follow the _flipped classroom_ model (described below). And if you need help for course work (e.g. exercises, Q&As, group work), contact Ms. Yue (for technical support of Colab/Slack), your Python tutors (for course related questions), or myself for assistance.
-
-__Flipped Classroom__: This course, including both the in-person and the online sections, will follow a _flipped classroom_ manner. Which means the lectures (e.g. in _recorded videos_) will be released to you __prior__ to every schedule class meeting. It is __mandatory__ for you to watch the class videos prior to the class meetings. The actual class meeting will be mainly for course work (e.g. exercises, Q&As, group work). In order for this model to work, it is crucial for you to come in __prepared__. Refer to the __preparations__ item for more details.
+__Flipped Classroom__: This course follows a _flipped classroom_ manner. Which means the lectures (e.g. in _recorded videos_) will be released to you __prior__ to every schedule class meeting. It is __mandatory__ for you to watch the class videos prior to the class meetings. The actual class meeting will be mainly for course work (e.g. exercises, Q&As, group work). In order for this model to work, it is crucial for you to come in __prepared__. Refer to the __preparations__ item for more details.
 
 __Note Taking__: While you are watching the class lectures, make sure you take notes. A separate presentation file will be provided to you via _Google Classroom_ for you to take notes. In most of the lecture notebooks, there are some exercise questions. You will need to submit exercise files after most of the classes. We will use a _buddy system_ in which students form 2-3 people groups for comparing notes and codes.
 
-__Contributing in Class Discussions__: If you are in class and are well prepared, the next key step is to contribute ideas. While this may seem difficult at first, asking questions helps your classmates as well as you in clarifying concepts and overall understanding. Each of you will eventually be working in some organization where collaboration and discussions will be es-sential to problem solving in some business domain. Consider classroom discussion in the same spirit and participate!
+__Contributing in Class Discussions__: If you are in class and are well prepared, the next key step is to contribute ideas. While this may seem difficult at first, asking questions helps your classmates as well as you in clarifying concepts and overall understanding. Each of you will eventually be working in some organization where collaboration and discussions will be es-sential to problem solving in some business domain. Consider classroom discussion in the same spirit and participate! You should consider asking/answering questions in our Slack channel ``buan6545`` as the __main__ channel of class communication.
+
 
 __Respect and Dignity__: It is also important for each of us as individuals to respect each other. Treat your classmates with respect and dignity (I like to call this R&D). Listen carefully to the questions and comments while keeping an open mind for ideas. It is okay to disagree with certain viewpoints, but present your arguments in a courteous manner. Negative body lan-guage such as rolling your eyes, using phrases such as “that was a dumb idea”, or interrupting others to express disagreements runs counter to the spirit of positive learning environment and is not okay. At the end of the day, we would like to create a positive environment that is conducive to learning.
 
-__Professionalism__: As budding professionals and business majors, conduct yourself in a professional manner just as you would with an employer or colleague. Refrain for unprofessional behaviors such as arriving late to class, coming in and out of class, taking a nap in class, making unprofessional comments to other students and the instructor, and sending unprofes-sional comments. Out of respect for fellow students, all mobile communication and entertainment devices need to be turned off and kept off during the class. Only software tools required for the class (e.g. SPSS Modeler) or note taking software (e.g., Evernote) the class time.
+__Professionalism__: As budding professionals and business majors, conduct yourself in a professional manner just as you would with an employer or colleague. Refrain for unprofessional behaviors such as arriving late to class, coming in and out of class, taking a nap in class, making unprofessional comments to other students and the instructor, and sending unprofes-sional comments. Out of respect for fellow students, all mobile communication and entertainment devices need to be turned off and kept off during the class. Only software tools required for the class (e.g. Google Colab, Zoom) or note taking software (e.g., Evernote) the class time.
 
 ---
 
@@ -178,11 +177,15 @@ __Course Materials__: All the teaching materials, including assignments and exam
 
 __Late Submissions__: Grades become official one week after assignments/exams have been returned by the instructor. Late submissions might be accepted with a 10% grade penalty. If you miss an exam, you may be given a make-up exam if you provide a written official excuse, such as a doctor’s note covering the date the quiz is given. Oral excuses are not acceptable. No make-up opportunities would be given to final deliverables of both competitions/projects.
 
-__Email Communications and Feedbacks__: When sending an email to your instructor, please include in your email your section name or the time you are taking the class (i.e., using __“BA545  + your name”__ in the subject line). Normally, I would reply to your email no longer than __24__ hours. I will not respond to emails sending from/to non-university emails. Allow more time during weekends and holidays. Feedbacks on your assignments/deliverables will generally be returned to your within a week after the due of the assignment. After receiving the feedback (and grade), you have __three (3)__ days to dispute a grade with proper justified reasons. Special Note: Throughout this course, I will use my student email address (jtao@student.fairfield.edu) to share course files with you – however, ALL course related communications should be referred to my main email (jtao@fairfield.edu).
+__Class Communications and Feedbacks__: We will use __Slack__ for __all__ course communications. __DO NOT SEND EMAIL TO YOUR PROFESSORS. DM instead.__ You will receive an email invitation from ``Yue.Pu@fairfield.edu`` with instructions. You need to join the ``#buan6545`` channel to communicate with me and the class. Normally, I would reply to your DM no longer than __12__ hours. Allow more time during weekends and holidays. Feedbacks on your assignments/deliverables will generally be returned to your within a week after the due of the assignment. After receiving the feedback (and grade), you have __three (3)__ days to dispute a grade with proper justified reasons. 
 
 __Academic Honesty__: Fairfield University’s primary purpose is the pursuit of academic excellence. All members of the Fairfield University community share responsibility for establishing and maintaining appropriate standards of academic honesty and integrity. This is possible only in an atmosphere where discovery and communication of knowledge are marked by scrupulous, unqualified honesty. In the event of such dishonesty, professors are to award a grade of zero for the project, paper, or examination in question, and may record an F for the course itself.
 
 __Students with Disabilities__: Fairfield University is committed to providing qualified students with disabilities an equal opportunity to access the benefits, rights and privileges of its services, programs and activities, in an accessible setting. Fur-thermore, in compliance with Section 504 of the Rehabilitation Act, the Americans with Disabilities Act, and Connecticut State laws, we provide reasonable accommodations to qualified students, to reduce the impact of disabilities on academic functioning or upon other major life activities. 
+
+__Online Office/Coaching Hours__: online office hours are available via [Zoom](), which runs in addition to the regular on ground office hours. If needed, additional coaching hours can be arranged.
+
+__Python Tutoring__: Given the circumstances that the professor is not available, we have Python tutors for on-ground and online tutoring services. Make sure to maintain contacts with your Python tutors.
 
 ---
 
@@ -192,19 +195,19 @@ The following course outline is tentative and subject to change when and where d
 
 | Date | Lecture | In Class Activities | Student Work |
 :--- | :--- | :--- | :---
-| 1/21 | Intro to Data Mining | Course Logistics; A Data Mining Tour | Python Review |
-| 1/28 | Framing Your Analytical Question | Starting with Data; Data Handling with Pandas | Competition#1 Kick-off |
-| 2/4 | Data Preparation | Data Preprocessing; PCA | MP#1 - pt1 |
-| 2/11 | Data Exploration | Feature Selection Pt1 & Pt2 | MP#2 - pt1 |
-| 2/18 | | Recommender Systems | MP#1 - pt2 |
-| 2/25| Stats Overview and Review | Handling Categorical Data; Handling Imbalanced Data | Competition#1 Due |
-| 3/3 | Unsupervised Learning - Clustering | K-means Clustering | Competition#2 Kick-off |
-| 3/10 | Spring Recess - No Class Meeting Times |
-| 3/17 | Basic Classification - Part1 | Naive Bayes; Logistic Regression | MP#2 - pt2 |
-| 3/24 | Basic Classification - Part2 | Decision Trees; Random Forest | MP#1 - pt3 |
-| 3/31 | Advanced Classification | XGBoost; SVM | Competition#2 Data Audit Report |
-| 4/7 | Model Evaluation and Optimization - Part1 | Ensemble Learning; Cross Validation | MP#2 - pt3 |
-| 4/14 | Model Evaluation and Optimization - Part 2 | Hyperparameter Optimization; Intro to TPOT | Competition#2 Initial Data Models |
-| 4/21 | Intro to Deep Learning | Deep Learning Basics | |
-| 4/28 | | | Competition#2 Presentations and Final Report |
+| 1/26 | Intro to Data Mining | Course Logistics; A Data Mining Tour | Python Review |
+| 2/2 | Framing Your Analytical Question | Starting with Data; Data Handling with Pandas | Competition#1 Kick-off |
+| 2/9 | Data Preparation | Data Preprocessing; PCA | MP#1 - pt1 |
+| 2/16 | Data Exploration | Feature Selection Pt1 & Pt2 | MP#2 - pt1 |
+| 2/23 | | Recommender Systems | MP#1 - pt2 |
+| 3/2| Stats Overview and Review | Handling Categorical Data; Handling Imbalanced Data | Competition#1 Due |
+| 3/9 | Unsupervised Learning - Clustering | K-means Clustering | Competition#2 Kick-off |
+| 3/16 | Basic Classification - Part1 | Naive Bayes; Logistic Regression | MP#2 - pt2 |
+| 3/23 | Basic Classification - Part2 | Decision Trees; Random Forest | MP#1 - pt3 |
+| 3/30 | Advanced Classification | XGBoost; SVM | Competition#2 Data Audit Report |
+| 4/6 | University Holiday - No Class Meeting Times |
+| 4/13 | Model Evaluation and Optimization - Part1 | Ensemble Learning; Cross Validation | MP#2 - pt3 |
+| 4/20 | Model Evaluation and Optimization - Part 2 | Hyperparameter Optimization; Intro to TPOT | Competition#2 Initial Data Models |
+| 4/27 | Intro to Deep Learning | Deep Learning Basics | |
+| 5/4 | | | Competition#2 Presentations and Final Report |
 
