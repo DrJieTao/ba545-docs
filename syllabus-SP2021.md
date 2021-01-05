@@ -19,10 +19,11 @@ Course Syllabus, Spring 2021
 | Contact Info         |                                                                  |                                       |
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
 | **Name:** Jie Tao    | **Email:** [jtao@fairfield.edu](mailto:jtao@fairfield.edu)       | **Phone:** (203)254-4000 x 2232       |
-| **Office:** DSBN 338 | **Office Hours:** T 5-6PM, F 4-6PM EST, or by appointment        | Contact: Slac                                       |
+| **Office:** DSBN 338 | **Office Hours:** T 5-6PM, F 4-6PM EST, or by appointment        | Contact: DM on Slack                  |
 
 ## Course Support Staff
-- Instructional Technologist: Yue Pu [Email](mailto:yue.pu@fairfield.edu)
+- Instructional Technologist: Yue Pu (Contact by DM on Slack) <!--[Email](mailto:yue.pu@fairfield.edu)
+
 - Python Tutors:
   - TBD
 
