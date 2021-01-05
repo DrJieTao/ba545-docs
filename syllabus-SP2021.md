@@ -19,10 +19,10 @@ Course Syllabus, Spring 2021
 | Contact Info         |                                                                  |                                       |
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
 | **Name:** Jie Tao    | **Email:** [jtao@fairfield.edu](mailto:jtao@fairfield.edu)       | **Phone:** (203)254-4000 x 2232       |
-| **Office:** DSBN 338 | **Office Hours:** T 5-6PM, F 4-6PM EST, or by appointment                                                  |
+| **Office:** DSBN 338 | **Office Hours:** T 5-6PM, F 4-6PM EST, or by appointment        | Contact: Slac                                       |
 
 ## Course Support Staff
-- Lab Manager: Yue Pu [Email](mailto:yue.pu@fairfield.edu)
+- Instructional Technologist: Yue Pu [Email](mailto:yue.pu@fairfield.edu)
 - Python Tutors:
   - TBD
 
@@ -35,7 +35,7 @@ Support staff office hours and locations to be announced.
 :--- | :--- 
 **Course Number:** `BUAN 6545` | **Credit Hours:** 3 | 
 **Prerequisites:** `BUAN 6500`, `BUAN 6505` | **Course Duration**: Jan., 26 - May, 4 |
-**Delivery Method:**  Oneline (Google Classroom, Zoom) | **Meeting Time:** T 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2020-2021) |
+**Delivery Method:**  Online (Google Classroom, Zoom) | **Meeting Time:** T 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2020-2021) |
 
 ### Course Description
 
