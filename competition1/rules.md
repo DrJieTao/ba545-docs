@@ -70,7 +70,7 @@ See attached ‘Data Dictionary’ Document.
 ### Suggested Tasks
 Following tasks are normally conduct in data preparation phase. __Not all steps are required/available in this particular dataset__ – and __not in this particular order__. Some additional step(s) might be required – which you might need to research on. Keep in mind that your decisions on different strategies below will determine the results.
 
-1. __Descriptive statistics__ – describing the data using minimum, maximum, 1st & 3rd quartile, mean, median, standard deviation, number of records, number of missing records, ...
+1. __Descriptive statistics__ – describing the data using minimum, maximum, 1st & 3rd quartile, mean, median, standard deviation, number of records, number of missing records, ... 
 2. __Imputation__ – dealing with missing data, you can choose from following strategies: 
   i) drop the record with missing (highly discouraged); 
   ii) replace the missing with mean/median/mode, determined on the data type; 
