@@ -62,7 +62,7 @@ Tao should __only__ be conducted by group leaders.
 ## Competition Guidelines
 
 ### Research Question
-The overarching research question is “ _What are the determinants of IPO underpricing phenomena?_ ” In this competition, your main purpose is to prepare the data for predictive models answering the overarching research question.
+The overarching research question is “ _How to predict the IPO underpricing phenomena?_ ” In this competition, your main purpose is to prepare the data for predictive models answering the overarching research question. You can also come up with additional RQs such as "_what are the determinants of the PO underpricing phenomena?_"
 
 ### Data Dictionary
 See attached ‘Data Dictionary’ Document.
