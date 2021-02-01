@@ -11,7 +11,7 @@ In this competition, you are provided with data regarding successful U.S. IPOs f
 - Started: __12:00 AM ETC, Feb. 2nd, 2021, Tuesday__
 - Milestone Checkpoint: __11:59 PM ETC, Feb. 16th, 2021, Tuesday,__
 - Submission Deadline: __11:59 PM ETC, Mar. 2nd, 2021, Tuesday__
-- Points: __300__ points in total, 150 points in each part – see __Evaluation Rules__ for details.
+- Points: __300__ points in total, 150 points in each part – see [__Evaluation Rules__](#evaluation-rules) for details.
 
 ## Competition Rules
 Please find the generic competition rules below. Dr. Tao reserves all the rights to further explain the rules.
