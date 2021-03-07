@@ -1,5 +1,5 @@
 # Potential Projects/Topics for Competition 2
-## Spring 2021
+## BUAN6545, Spring 2021
 
 For the purpose of familiarizing you with machine learning techniques, especially modeling/evaluation, as well as preparing you for topic selection of your capstone project, I have carefully selected the following topics for competition 2. These topics cover fields including _healthcare_, _social media_, and _marketing_ analytics. Also, these topics range from __classification__ to __regression__ as for the modeling objectives.
 
