@@ -84,8 +84,15 @@ This class is graded based on a point system (with a total of __1,000__ points),
 | Deliverables | Point Value |
 :--- | :---
 | Mini projects (2 x 3 parts, each worth __50__ points) | 6 x 50 = __300__ points |
-| Project #1 | __300__ points |
+| Project #1 | __200__ points |
+| - Milestone Report | 100 points |
+| - Final Report | 100 points |
 | Project #2 | __400__ points |
+| - Proposal | 50 points |
+| - Data Audit Report | 100 points |
+| - Initial Models | 100 points |
+| - Final Presentation & Report | 150 points|
+| Professionalism | __100__ points |
 | __Total__ | __1,000__ points|
 
 ### Grading Scale
