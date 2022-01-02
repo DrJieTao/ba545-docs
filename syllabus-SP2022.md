@@ -206,7 +206,7 @@ The following course outline is tentative and subject to change when and where d
 
 | Date | Lecture | In Class Activities | Student Work |
 :--- | :--- | :--- | :---
-| 1/20 | Intro to Machine Learning | Course Logistics; A Data Mining Tour | Python Review |
+| 1/20 | Intro to Machine Learning | Course Logistics; A Machine Learning Tour | Python Review |
 | 1/27 | Framing Your Analytical Question | Starting with Data; Data Handling with Pandas | Competition#1 Kick-off |
 | 2/3 | Data Preparation | Data Preprocessing; PCA | MP#1 - pt1 |
 | 2/10 | Data Exploration | Feature Selection Pt1 & Pt2 | MP#2 - pt1 |
