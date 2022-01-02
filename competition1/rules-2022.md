@@ -35,7 +35,7 @@ Tao should be conducted by group leaders.
 ### Evaluation Rules
 - Submissions are evaluated on __two evaluation metrics__ of the modeling results; each part takes up to __50__ points:
   - _Prediction Accuracy_: we will use F-1 score as the measurement of how close the predicted values are to the factual outputs – please refer to [this Wikipedia article](https://en.wikipedia.org/wiki/Precision_and_recall) for the computation of F-1 score;
-  - _Predictive Power_: we will use __ROC curve__ (Receiver Operating Characteristics), or similarly, AUC (Area Under ROC Curve), is a graphical representation that demonstrate the predictive performances of models. Note that ROC/AUC can only be applied to __binary targets__. The rule-of-thumb for ROC is as follows (the higher the better):
+  - _Predictive Power_: we will use __ROC curve__ (Receiver Operating Characteristics), or similarly, AUC (Area Under ROC Curve), is a graphical representation that demonstrate the predictive performances of models. Note that ROC/AUC can only be applied to __binary targets__. <!--The rule-of-thumb for ROC is as follows (the higher the better):
   
  | AUC Value | Interpretation |
 :--- | :---
@@ -44,14 +44,16 @@ Tao should be conducted by group leaders.
 | 0.8 - 0.89 | Good Analysis |
 | 0.7 - 0.79 | Fair Analysis |
 | 0.5 - 0.69 | Poor Analysis |
-| 0.5 and Below | Worthless Analysis |
+| 0.5 and Below | Worthless Analysis |-->
 
 <!--- Submissions are ranked base on F1-score and AUC, respectively. All groups' performances are ranked - the groups ranked top 3 in class are rewarded with extra points: 
 
   + First place: 20 extra points
   + Second place: 10 extra points
   + Third place: 5 extra points -->
-
+- For both metrics, we will use bias and variance to measure them - which means the lower the better:
+  + bias: 1 minus the mean value of the metric, measures how accurate your model is;
+  + variance: standard deviation of the metric, measures the consistency of your model.
 - Every submission will be evaluated by Dr. Tao and at least one (1) independent judge – all disagreements need to be resolved before release the results to the participants. __Example evaluation code will be provided for your convenience.__
 
 - Extra point opportunities: each group can make use of up to one (1) extra points opportunity – each opportunity worth up to 10 extra points:
