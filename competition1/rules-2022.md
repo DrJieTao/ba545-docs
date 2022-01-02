@@ -35,9 +35,9 @@ Tao should be conducted by group leaders.
 ### Evaluation Rules
 - Submissions are evaluated on __two evaluation metrics__ of the modeling results; each part takes up to __50__ points:
   - _Prediction Accuracy_: we will use F-1 score as the measurement of how close the predicted values are to the factual outputs – please refer to [this Wikipedia article](https://en.wikipedia.org/wiki/Precision_and_recall) for the computation of F-1 score;
-  - _Predictive Power_: we will use __ROC curve__ (Receiver Operating Characteristics), or similarly, AUC (Area Under ROC Curve), is a graphical representation that demonstrate the predictive performances of models. Note that ROC/AUC can only be applied to __binary targets__. <!--The rule-of-thumb for ROC is as follows (the higher the better):
+  - _Predictive Power_: we will use __ROC curve__ (Receiver Operating Characteristics), or similarly, AUC (Area Under ROC Curve), is a graphical representation that demonstrate the predictive performances of models. Note that ROC/AUC can only be applied to __binary targets__. <!--The rule-of-thumb for ROC is as follows (the higher the better):-->
   
- | AUC Value | Interpretation |
+<!--| AUC Value | Interpretation |
 :--- | :---
 | 1.0 | Perfect Analysis |
 | 0.9 - 0.99 | Excellent Analysis |
