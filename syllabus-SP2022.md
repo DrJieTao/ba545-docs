@@ -19,7 +19,7 @@ Course Syllabus, Spring 2022
 | Contact Info         |                                                                  |                                       |
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
 | **Name:** Jie Tao    | **Email:** [jtao@fairfield.edu](mailto:jtao@fairfield.edu) **NOT PREFERRED**      | **Phone:** (203)254-4000 x 2232       |
-| **Office:** DSBN 338 | **Office Hours:** T 2-4PM, Th 5-6PM EST, or by appointment, [Zoom](https://fairfield.zoom.us/j/9579872640) only        | Contact: DM on Slack                  |
+| **Office:** DSBN 338 | **Office Hours:** T 3-5PM, F 3-4PM EST, or by appointment, [Zoom](https://fairfield.zoom.us/j/9579872640) only        | Contact: DM on Slack                  |
 
 ## Course Support Staff
 - Instructional Technologist: Yue Pu (Contact by DM on Slack) 
