@@ -36,7 +36,7 @@ Support staff availabilities to be announced on **Slack**.
 :--- | :--- 
 **Course Number:** `DATA 6545` | **Credit Hours:** 3 | 
 **Prerequisites:** `DATA 6500`, `DATA 6505` | **Course Duration**: Jan., 18 - May, 11 |
-**Delivery Method:**  Online (Google Classroom, Zoom) & In Person (TBD) | **Meeting Time:** T 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2021-2022) |
+**Delivery Method:**  Online (Google Classroom, Zoom) & In Person (TBD) | **Meeting Time:** Th 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2021-2022) |
 
 ### Course Description
 
