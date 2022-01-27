@@ -80,7 +80,7 @@ Following tasks are normally conduct in data preparation phase. __Not all steps 
 3. __Normalization__ – You need to manipulate all continuous fields to follow normal distribution: which contains two steps: 
   i) removing skewness (using logarithm, square root, etc.) 
   ii) make sure the residual is randomly distributed;
-4. __Correlation analysis__ – you need to select predictor variables with low pair-wise correlation (i.e. spearman’s) values – usually the threshold is __0.5__ – one variable from the pair should be excluded from the model;
+4. __Correlation analysis__ – you need to select predictor variables with low pair-wise correlation (i.e. Pearson's R) values – usually the threshold is __0.5__ – one variable from the pair should be excluded from the model;
 5. __Standardization__ – you need to convert the values at the same numeric level; one way of doing this is to use the z-score standardization, which is calculated as shown on [this page](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/z-score/).
 6. __Recoding__ – for categorical data, you might want to recode them. For instance, since you need to use AUC as the evaluation metric, you should convert the target(s) to binary (two classes). Also, you should recode any categorical variable(s) with no more than 5 classes.
 
