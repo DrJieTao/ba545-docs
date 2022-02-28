@@ -17,17 +17,18 @@ This dataset contains `70,000` instances, however it also contains some _serious
 
 This dataset contains `9` continuous and `20` categorical features, and `1` multi-class target. You can find the __data dictionary__ [here](https://www.hindawi.com/journals/bmri/2014/781670/tab1/). The dataset can be downloaded using this [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00296/dataset_diabetes.zip). If needed I can provided the uncompressed version of the data files.
 
-+ __Topic 2__: [Online News Popularity](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity)
++ __Topic 2__: [Bank Tele-marketing](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 
-In this project, you are going to predict how popular a piece of online news can be using different features of the news, e.g., _content_, _category_, _keyword_, _topic_. The original dataset is based on a regression problem - the __target variable__, _shares_, is the number of shares for a particular online news article. Although this can be converted into a classification project (popular/neutral/unpopular) by binning the original target.
+In this project, you are going to predict if the client will subscribe a term deposit, using the information from a direct marketing campaigns (phone calls) of a Portuguese banking institution. This is a classification project (although __regression models__ can be used in it).
 
-This dataset contains 60 continuous or categorical features, and 1 continuous target (_shares_). The dataset can be downloaded using this [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00332/OnlineNewsPopularity.zip). If this project is selected, I will provide the decompressed data files.
+This dataset contains 20 continuous or categorical features, and 1 binary target (subscribe or not). The dataset can be downloaded using this [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank-additional.zip). This data set contains a full file (which you will use to train and evaluate your model(s)) and a much smaller sample (10% random sample, which you can use to train complicated models such as SVM or random forest). If this project is selected, I will provide the decompressed data files.
+This dataset contains `10` continuous and `10` categorical features, and `1` __binary__ target. You can find the __data dictionary__ [here](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#).
 
 + __Topic 3__: [In-vehicle Coupon Recommendation](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)
 
 In this project, you are going to predict if a coupon is accepted by a driver in different driving scenarios. Please refer to [this paper](https://jmlr.org/papers/volume18/16-003/16-003.pdf) for more details of this dataset, but note the paper is working on a __different__ angle. The dataset contains one __binary__ target: `1` means the coupon is accepted, `0` means not.
 <!--client will subscribe a term deposit, using the information from a direct marketing campaigns (phone calls) of a Portuguese banking institution. This is a classification project (although __regression models__ can be used in it).-->
 
-This dataset contains `5` continuous (although that all of them are __pre-binned__) and `29` categorical features, and 1 binary target (accept or not). The dataset can be downloaded using this [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00603/in-vehicle-coupon-recommendation.csv). 
+This dataset contains `5` continuous (although that all of them are __pre-binned__) and `29` categorical features, and 1 __binary__ target (accept or not). The dataset can be downloaded using this [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00603/in-vehicle-coupon-recommendation.csv). 
 <!--This data set contains a full file (which you will use to train and evaluate your model(s)) and a much smaller sample (10% random sample, which you can use to train complicated models such as SVM or random forest). If this project is selected, I will provide the decompressed data files.-->
 
