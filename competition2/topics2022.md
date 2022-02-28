@@ -26,7 +26,7 @@ This dataset contains `10` continuous and `10` categorical features, and `1` __b
 
 + __Topic 3__: [In-vehicle Coupon Recommendation](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)
 
-In this project, you are going to predict if a coupon is accepted by a driver in different driving scenarios. Please refer to [this paper](https://jmlr.org/papers/volume18/16-003/16-003.pdf) for more details of this dataset, but note the paper is working on a __different__ angle. The dataset contains one __binary__ target: `1` means the coupon is accepted, `0` means not.
+In this project, you are going to predict if a coupon is accepted by a driver in different driving scenarios. Please refer to [this paper](https://jmlr.org/papers/volume18/16-003/16-003.pdf) for more details of this dataset, but note the paper is working on a __different__ angle. The dataset contains `34` categorical features, and one __binary__ target: `1` means the coupon is accepted, `0` means not.
 <!--client will subscribe a term deposit, using the information from a direct marketing campaigns (phone calls) of a Portuguese banking institution. This is a classification project (although __regression models__ can be used in it).-->
 
 This dataset contains `5` continuous (although that all of them are __pre-binned__) and `29` categorical features, and 1 __binary__ target (accept or not). The dataset can be downloaded using this [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00603/in-vehicle-coupon-recommendation.csv). 
