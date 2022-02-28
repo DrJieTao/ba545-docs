@@ -21,7 +21,7 @@ This dataset contains `9` continuous and `20` categorical features, and `1` mult
 
 In this project, you are going to predict if the client will subscribe a term deposit, using the information from a direct marketing campaigns (phone calls) of a Portuguese banking institution. This is a classification project (although __regression models__ can be used in it).
 
-This dataset contains 20 continuous or categorical features, and 1 binary target (subscribe or not). The dataset can be downloaded using this [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank-additional.zip). This data set contains a full file (which you will use to train and evaluate your model(s)) and a much smaller sample (10% random sample, which you can use to train complicated models such as SVM or random forest). If this project is selected, I will provide the decompressed data files.
+The dataset can be downloaded using this [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank-additional.zip). This data set contains a full file (which you will use to train and evaluate your model(s)) and a much smaller sample (10% random sample, which you can use to train complicated models such as SVM or random forest). If this project is selected, I will provide the decompressed data files.
 This dataset contains `10` continuous and `10` categorical features, and `1` __binary__ target. You can find the __data dictionary__ [here](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#).
 
 + __Topic 3__: [In-vehicle Coupon Recommendation](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)
