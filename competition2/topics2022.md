@@ -5,7 +5,7 @@ For the purpose of familiarizing you with machine learning techniques, especiall
 
 Each group is asked to provide their ranking of the following topics. For instance, one group can rank the topics - e.g., __Topic 1__, __Topic 3__, __Topic 2__. The topic with the highest ranking will be selected as the topic for competition 2.  
 
-Please use [this form](https://forms.gle/cknDw6qdwk2vRn4t8) to rank these topics. After a topic is selected (based on the __average rating__ from you), the dataset will be made available on [Google Classroom](#) by the instructor.
+Please use [this form](https://forms.gle/kobtyQkevvTRyKCR6) to rank these topics. After a topic is selected (based on the __average rating__ from you), the dataset will be made available on [Google Classroom](#) by the instructor.
 
 ## Topics:
 + __Topic 1__: [US Hospital Readmissions of Diabetes Patients](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008)
