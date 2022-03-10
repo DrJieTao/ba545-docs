@@ -36,4 +36,4 @@ Spring 2022
 26. **other_banks**: if the customer is doing business with other banks, self-reported (categorical, `'yes', 'no', 'unknown'`)
 
 ## Target:
-27. y - has the client subscribed a term deposit? (binary: 'yes','no')
+27. y - has the client subscribed a term deposit? (binary: `'yes','no'`)
