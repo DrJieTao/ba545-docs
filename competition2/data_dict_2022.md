@@ -32,7 +32,7 @@ Spring 2022
 22. **customer_ratings**: customer rating of the current campaign (categorical, `1 - 5` stars)
 23. **customer_language**: language used by the customer in the current campaign (categorical, `'Portuguese', 'English', 'Spanish', 'Other'`)
 24. **rep_avg_rating**: average rating of the representative prior to the current campaign (continuous, within `[0, 5]` range)
-25. **cutomer_length**: number of months customer doing business with the bank, from internal record (continuous, within `[0, 72]` range)
+25. **customer_length**: number of months customer doing business with the bank, from internal record (continuous, within `[0, 72]` range)
 26. **other_banks**: if the customer is doing business with other banks, self-reported (categorical, `'yes', 'no', 'unknown'`)
 
 ## Target:
